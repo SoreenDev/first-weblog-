@@ -1,0 +1,20 @@
+{
+    "name": "me/1",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "app\\": "src/"
+        },
+        "files": [
+            "./helper.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "mjman",
+            "email": "mj.2002hr@gmail.com"
+        }
+    ],
+    "require": {}
+}

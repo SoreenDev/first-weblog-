@@ -1,0 +1,11 @@
+[
+    {
+        "id" : 1,
+        "title": "Weblog",
+        "keywords": "news,sport,politcal,social",
+        "description": "this is a my website.",
+        "author": "SoreenDev",
+        "logo": "images/logo.png",
+        "footer": "SoreenDev"
+    }
+]
